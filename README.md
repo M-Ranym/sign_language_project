@@ -73,21 +73,21 @@ The system is structured in **three core phases**:
 
 | |
 |---|
-| <video src="README_docs/clipchamp_demo.mp4" width="640" controls></video> |
+| ![Clipchamp Demo](README_docs_images/clipchamp.gif) |
 
 **Hello & I Love You Demo:**
 
 | |
 |---|
-| <video src="README_docs/hello_demo.mp4" width="640" controls></video> |
+| ![Hello Demo](README_docs_images/hello.gif) |
 
 ---
 
 ## 📸 App Screenshots
 
-| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
-|---|---|---|---|
-| ![Screenshot 1](README_docs_images/pdf_p30_IM248.jpg) | ![Screenshot 2](README_docs_images/pdf_p36_IM279.jpg) | ![Screenshot 3](README_docs_images/pdf_p37_IM284.jpg) | ![Screenshot 4](README_docs_images/pdf_p37_IM285.jpg) |
+| Screenshot 1 | Screenshot 2 | Screenshot 4 |
+|---|---|---|
+| ![Screenshot 1](README_docs_images/pdf_p30_IM248.jpg) | ![Screenshot 2](README_docs_images/pdf_p36_IM279.jpg) | ![Screenshot 4](README_docs_images/pdf_p37_IM285.jpg) |
 
 ---
 
