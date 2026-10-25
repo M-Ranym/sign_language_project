@@ -71,15 +71,15 @@ The system is structured in **three core phases**:
 
 **Clipchamp Demo:**
 
-| Frame 1 | Frame 2 | Frame 3 | Frame 4 |
-|----------|----------|----------|----------|
-| ![Clipchamp 1](README_docs_images/clipchamp_frame_01.png) | ![Clipchamp 2](README_docs_images/clipchamp_frame_02.png) | ![Clipchamp 3](README_docs_images/clipchamp_frame_03.png) | ![Clipchamp 4](README_docs_images/clipchamp_frame_04.png) |
+| |
+|---|
+| ![Clipchamp Demo](README_docs/clipchamp_demo.mp4) |
 
 **Hello & I Love You Demo:**
 
-| Frame 1 | Frame 2 | Frame 3 | Frame 4 |
-|----------|----------|----------|----------|
-| ![Hello 1](README_docs_images/hello_frame_01.png) | ![Hello 2](README_docs_images/hello_frame_02.png) | ![Hello 3](README_docs_images/hello_frame_03.png) | ![Hello 4](README_docs_images/hello_frame_04.png) |
+| |
+|---|
+| ![Hello Demo](README_docs/hello_demo.mp4) |
 
 ---
 

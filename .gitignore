@@ -7,3 +7,7 @@ __pycache__/
 
 # Documentation (large files, not for repo)
 ../sign_language_project docs/
+
+# Demo videos
+README_docs/
+README_docs_images/
