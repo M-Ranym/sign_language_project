@@ -73,33 +73,21 @@ The system is structured in **three core phases**:
 
 | |
 |---|
-| ![Clipchamp Demo](README_docs/clipchamp_demo.mp4) |
+| <video src="README_docs/clipchamp_demo.mp4" width="640" controls></video> |
 
 **Hello & I Love You Demo:**
 
 | |
 |---|
-| ![Hello Demo](README_docs/hello_demo.mp4) |
+| <video src="README_docs/hello_demo.mp4" width="640" controls></video> |
 
 ---
 
-## 📸 Report Screenshots
+## 📸 App Screenshots
 
-| pdf_p02 | pdf_p17 | pdf_p18 | pdf_p23 |
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
 |---|---|---|---|
-| ![pdf_p02](README_docs_images/pdf_p02_Image6.jpg) | ![pdf_p17](README_docs_images/pdf_p17_IM164.jpg) | ![pdf_p18](README_docs_images/pdf_p18_IM169.jpg) | ![pdf_p23](README_docs_images/pdf_p23_IM208.jpg) |
-
-| pdf_p23 | pdf_p24 | pdf_p30 | pdf_p31 |
-|---|---|---|---|
-| ![pdf_p23](README_docs_images/pdf_p23_IM209.jpg) | ![pdf_p24](README_docs_images/pdf_p24_IM213.jpg) | ![pdf_p30](README_docs_images/pdf_p30_IM248.jpg) | ![pdf_p31](README_docs_images/pdf_p31_IM252.jpg) |
-
-| pdf_p32 | pdf_p35 | pdf_p36 | pdf_p37 |
-|---|---|---|---|
-| ![pdf_p32](README_docs_images/pdf_p32_IM256.jpg) | ![pdf_p35](README_docs_images/pdf_p35_IM275.jpg) | ![pdf_p36](README_docs_images/pdf_p36_IM279.jpg) | ![pdf_p37](README_docs_images/pdf_p37_IM284.jpg) |
-
-| pdf_p37 | pdf_p38 | pdf_p38 |
-|---|---|---|
-| ![pdf_p37](README_docs_images/pdf_p37_IM285.jpg) | ![pdf_p38](README_docs_images/pdf_p38_IM289.jpg) | ![pdf_p38](README_docs_images/pdf_p38_IM290.jpg) |
+| ![Screenshot 1](README_docs_images/pdf_p30_IM248.jpg) | ![Screenshot 2](README_docs_images/pdf_p36_IM279.jpg) | ![Screenshot 3](README_docs_images/pdf_p37_IM284.jpg) | ![Screenshot 4](README_docs_images/pdf_p37_IM285.jpg) |
 
 ---
 
