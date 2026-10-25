@@ -83,9 +83,29 @@ The system is structured in **three core phases**:
 
 ---
 
+## 📸 Report Screenshots
+
+| pdf_p02 | pdf_p17 | pdf_p18 | pdf_p23 |
+|---|---|---|---|
+| ![pdf_p02](README_docs_images/pdf_p02_Image6.jpg) | ![pdf_p17](README_docs_images/pdf_p17_IM164.jpg) | ![pdf_p18](README_docs_images/pdf_p18_IM169.jpg) | ![pdf_p23](README_docs_images/pdf_p23_IM208.jpg) |
+
+| pdf_p23 | pdf_p24 | pdf_p30 | pdf_p31 |
+|---|---|---|---|
+| ![pdf_p23](README_docs_images/pdf_p23_IM209.jpg) | ![pdf_p24](README_docs_images/pdf_p24_IM213.jpg) | ![pdf_p30](README_docs_images/pdf_p30_IM248.jpg) | ![pdf_p31](README_docs_images/pdf_p31_IM252.jpg) |
+
+| pdf_p32 | pdf_p35 | pdf_p36 | pdf_p37 |
+|---|---|---|---|
+| ![pdf_p32](README_docs_images/pdf_p32_IM256.jpg) | ![pdf_p35](README_docs_images/pdf_p35_IM275.jpg) | ![pdf_p36](README_docs_images/pdf_p36_IM279.jpg) | ![pdf_p37](README_docs_images/pdf_p37_IM284.jpg) |
+
+| pdf_p37 | pdf_p38 | pdf_p38 |
+|---|---|---|
+| ![pdf_p37](README_docs_images/pdf_p37_IM285.jpg) | ![pdf_p38](README_docs_images/pdf_p38_IM289.jpg) | ![pdf_p38](README_docs_images/pdf_p38_IM290.jpg) |
+
+---
+
 ## 📎 Supporting Documents
 
-- **Full project report:** `sign_language_project docs/Repprt Ranym Moussa final version .pdf` (42 pages — requirements, design, implementation, results)
+- **Full project report:** `sign_language_project docs/Repprt Ranym Moussa final version .pdf` (42 pages — requirements, design, implementation, results) — *personal document, not in repository*
 - **Demo video:** `sign_language_project docs/Untitled video - Made with Clipchamp.mp4` (2.9s)
 - **Demo video 2:** `sign_language_project docs/hello and i love you.mp4` (4.8s)
 
