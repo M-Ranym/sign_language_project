@@ -67,11 +67,27 @@ The system is structured in **three core phases**:
 
 ---
 
+## 🎬 Demo Videos
+
+**Clipchamp Demo:**
+
+| Frame 1 | Frame 2 | Frame 3 | Frame 4 |
+|----------|----------|----------|----------|
+| ![Clipchamp 1](README_docs_images/clipchamp_frame_01.png) | ![Clipchamp 2](README_docs_images/clipchamp_frame_02.png) | ![Clipchamp 3](README_docs_images/clipchamp_frame_03.png) | ![Clipchamp 4](README_docs_images/clipchamp_frame_04.png) |
+
+**Hello & I Love You Demo:**
+
+| Frame 1 | Frame 2 | Frame 3 | Frame 4 |
+|----------|----------|----------|----------|
+| ![Hello 1](README_docs_images/hello_frame_01.png) | ![Hello 2](README_docs_images/hello_frame_02.png) | ![Hello 3](README_docs_images/hello_frame_03.png) | ![Hello 4](README_docs_images/hello_frame_04.png) |
+
+---
+
 ## 📎 Supporting Documents
 
 - **Full project report:** `sign_language_project docs/Repprt Ranym Moussa final version .pdf` (42 pages — requirements, design, implementation, results)
-- **Demo video:** `sign_language_project docs/Untitled video - Made with Clipchamp.mp4`
-- **Demo video 2:** `sign_language_project docs/hello and i love you.mp4`
+- **Demo video:** `sign_language_project docs/Untitled video - Made with Clipchamp.mp4` (2.9s)
+- **Demo video 2:** `sign_language_project docs/hello and i love you.mp4` (4.8s)
 
 ---
 
