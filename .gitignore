@@ -1,0 +1,10 @@
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Documentation (large files, not for repo)
+../sign_language_project docs/
+README_images/
